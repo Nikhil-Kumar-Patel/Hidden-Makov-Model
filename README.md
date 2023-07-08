@@ -1,4 +1,10 @@
 # Hidden-Makov-Model
 
-In this project, we attempt to validate the potential of the HMM in stock price forecasting and provide an extensive analysis of the effectiveness of the HMM compared to the traditional Historical Average Return (HAR) approach.
-We also aim to explore the theoretical foundations of Markov models, with a specific focus on hidden Markov models by delving into the underlying principles and mathematical frameworks of HMMs. 
+In this project, we implemented the Hidden Markov Model (HMM) for stock price forecasting, demonstrating its potential
+as a predictive tool in financial markets.
+Conducted an extensive comparative analysis between HMM and the traditional Historical Average Return (HAR)
+approach, evaluating their effectiveness in stock price forecasting and providing empirical evidence to support the
+superiority of HMM.
+Explored the theoretical foundations of Markov models, with a specific focus on Hidden Markov Models, studying
+the underlying principles and mathematical frameworks to gain a deeper understanding of their application in
+financial forecasting. 
